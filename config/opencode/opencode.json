@@ -1,0 +1,17 @@
+{
+  "provider": {
+    "openrouter": {
+      "apiKey": "env:OPENROUTER_API_KEY",
+      "models": {
+        "kimi-k2.6": {
+          "id": "moonshotai/kimi-k2.6",
+          "name": "Kimi K2.6",
+          "canReason": true
+        }
+      }
+    }
+  },
+  "model": {
+    "default": "openrouter/kimi-k2.6"
+  }
+}
