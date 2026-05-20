@@ -1,7 +1,0 @@
-# Clairy reverse proxy config
-# Add site blocks here as services are deployed
-#
-# Example webhook endpoint:
-# clairy.ckfce.com {
-#     reverse_proxy /webhook/* localhost:3000
-# }
